@@ -18,4 +18,5 @@
 
 .byebug_history
 
-# /config/secrets.yml
+# don't track secrets
+/config/secrets.yml
